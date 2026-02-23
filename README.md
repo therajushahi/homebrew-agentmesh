@@ -5,7 +5,7 @@ This is the official Homebrew tap for [AgentMesh](https://agentmeshhq.dev).
 ## Installation
 
 ```bash
-brew tap agentmesh/agentmesh
+brew tap therajushahi/agentmesh
 brew install agentmesh
 ```
 
@@ -42,3 +42,4 @@ agentmesh stop my-agent
 - [Documentation](https://agentmeshhq.dev/docs)
 - [GitHub](https://github.com/therajushahi/agentmesh)
 - [Report Issues](https://github.com/therajushahi/agentmesh/issues)
+
